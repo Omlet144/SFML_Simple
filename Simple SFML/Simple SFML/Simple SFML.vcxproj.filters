@@ -18,5 +18,8 @@
     <ClCompile Include="Simple SFML.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\SFML\SFML-2.5.1\main.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
